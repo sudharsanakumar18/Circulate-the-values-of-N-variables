@@ -12,6 +12,7 @@ Anaconda - Python 3.7
 ### Step 5: Implement te logic inside the circulate variables function to circulate the variables.
 ### Step 6: Run the program to see the result.
 ## Program:
+```
 #Program to circulate N values.
 #Developed by: SUDHARSANA KUMAR S R
 #RegisterNumber:23007374
@@ -20,7 +21,8 @@ def circulate():
     n=int(input())
     l=l[n:]+l[:n]
     print("After circulating the values are:",l)
-    
+```
+
 ## Output:
 ![image]_(
 ## Result:
