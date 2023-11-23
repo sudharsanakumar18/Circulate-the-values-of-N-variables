@@ -24,5 +24,5 @@ def circulate():
 ```
 
 ## Output:
-![image]_(https://raw.githubusercontent.com/sudharsanakumar18/Circulate-the-values-of-N-variables/main/python%201b.png)
+(https://raw.githubusercontent.com/sudharsanakumar18/Circulate-the-values-of-N-variables/main/python%201b.png)
 ## Result:
